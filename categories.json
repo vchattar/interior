@@ -1,0 +1,15 @@
+[
+    {"title": "Modular Kitchen Designs", "image": "kitchen.jpg", "file": "kitchen.json", "type": ["L-shaped Kitchen", "U-shaped Kitchen", "Parallel Kitchen", "Straight Line Kitchen", "Island Kitchen", "Peninsula Kitchen"]},
+    {"title": "Wardrobe Designs", "image": "wardrobe.jpg", "file": "wardrobe.json", "type": ["Sliding doors", "Swing doors"]},
+    {"title": "Bedroom Designs", "image": "bedroom.jpg", "file": "bedroom.json", "type": ["King", "Queen", "Single", "Bunk", "Wall-mounted"]},
+    {"title": "Living Room Designs", "image": "livingroom.jpg", "file": "livingroom.json"},
+    {"title": "Dining Room Design", "image": "diningroom.jpg", "file": "diningroom.json"},
+    {"title": "Children's Room Design", "image": "childrenroom.jpg", "file": "childrenroom.json"},
+    {"title": "Entertainment unit", "image": "entertainment.jpg", "file": "entertainment.json"},
+    {"title": "Study unit", "image": "study.jpg", "file": "study.json"},
+    {"title": "Crockery unit", "image": "crockery.jpg", "file": "crockery.json"},
+    {"title": "Home Office", "image": "homeoffice.jpg", "file": "homeoffice.json"},
+    {"title": "Hallway ceiling design", "image": "ceiling.jpg", "file": "ceiling.json"},
+    {"title": "Balconies Design", "image": "balconies.jpg", "file": "balconies.json"},
+    {"title": "Space Saving Furniture", "image": "spacesaving.jpg", "file": "spacesaving.json"}
+]
